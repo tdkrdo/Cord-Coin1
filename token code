@@ -1,0 +1,48 @@
+1. name
+Cordbank string
+2. totalSupply
+500000000000000000000000000 uint256
+3. decimals
+18 uint8
+4. _totalSupply
+500000000000000000000000000 uint256
+5. balanceOf
+tokenOwner (address)
+   tokenOwner (address)
+ balance uint256
+6. owner
+0xa3e4498b2655c5dfe8fd2afdc2cf11fce505ab1b address
+7. symbol
+CBK string
+8. safeSub
+a (uint256)
+   a (uint256)
+b (uint256)
+   b (uint256)
+ c uint256
+9. safeDiv
+a (uint256)
+   a (uint256)
+b (uint256)
+   b (uint256)
+ c uint256
+10. safeMul
+a (uint256)
+   a (uint256)
+b (uint256)
+   b (uint256)
+ c uint256
+11. newOwner
+0x0000000000000000000000000000000000000000 address
+12. allowance
+tokenOwner (address)
+   tokenOwner (address)
+spender (address)
+   spender (address)
+ remaining uint256
+13. safeAdd
+a (uint256)
+   a (uint256)
+b (uint256)
+   b (uint256)
+ c uint256
